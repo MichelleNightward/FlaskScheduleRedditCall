@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<body>
+<h1 align="center">Call Scheduler</h1>
+<p>&nbsp;</p>
+<p align="center">{{ result }}</p>
+<Response>
+    <Say>The top reddit headline for today is "{{headline}}"</Say>
+</Response>
+</body>
